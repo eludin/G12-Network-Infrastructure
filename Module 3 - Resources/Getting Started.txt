@@ -1,0 +1,29 @@
+Module 3 - Getting Started
+To-Do Date: Oct 28 at 11:59pm
+
+This module contains the details for your group project, the Network Design Proposal.  The following documents are included in this module:
+
+    The Network Design Proposal Assignment document that details the assignment submission requirements
+    The DesignAssistant spreadsheet, which should help you complete the assignment
+    The CostingAssistant spreadsheet, which should also help you complete the assignment
+    The DepartmentBandwidthBalancing spreadsheet, which is another helper document
+    An Example Physical Topology Document that provides a sample of part of your assignment deliverables
+    The Network Design Project Proposal Template, which you can modify as needed for your submission
+    The Network Design Proposal Project Peer Evaluation that must be individually completed after your group submits the assignment document and video
+
+
+Your Tasks
+
+    Form a group of five students, all of whom must be in your specific course section (if you can group up together, you're good to go)
+    You and your group members should immediately join one of the open Network Design Proposal Groups
+    Review the assignment documents in the content area for this Module, and the Case Study document in your group's files area
+    As a group, agree on who will be completing which of the various pieces of work
+    As a group, complete the Intent to Respond Letter and have someone in your group post it to the Intent to Respond Letter area by the deadline date
+    Do the research and write the proposal document, making sure to complete all sections
+    As a group, create a proposal presentation as per the instructions
+    Have someone in your group post your group's document to the Network Design Proposal Document and your group's presentation to the Network Design Proposal Presentation areas by the deadline date
+    Fill in the peer evaluation form
+
+Your best strategy is to get this done as soon as possible, as your other courses will have deliverables and evaluations that will keep your group members busy as the semester comes to a close. 
+
+Don't forget to reach out to your professor if you have questions, need clarification, or just want to chat about how things are going!
