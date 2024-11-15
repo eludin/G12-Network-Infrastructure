@@ -1,3 +1,4 @@
+# Author: Adam Lo Giudice
 ##DISTANCE CONVERTER:
 import math
 
