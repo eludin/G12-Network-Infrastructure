@@ -114,5 +114,59 @@
 	- some logic/reasoning to splitting departments physically at a switch level but that wasn't his experience in the workforce
 		- reiterates: most companies who wanted department isolation would do so with a vlan
 
+---
+###### Post-Meeting Followup
+- Summary from email:
+
+> Cisco Business 350 Series switch is suitable for use as access layer switches in a network that needs core switches; for core switches, depending on your network size and traffic demands, consider options like the Cisco Catalyst 9000 Series, Cisco Nexus 5000 Series, or Cisco Catalyst 9300 Series, which are designed for high performance and scalability at the core level. 
+> 
+> **Explanation:**
+> ==**Cisco Business 350 Series as Access Layer:**==
+> This series is designed as a managed switch with features like VLANs, QoS, and security capabilities, which are ideal for connecting end-user devices like desktops and laptops at the access layer of a network. 
+> 
+> The Cisco Business 350 Series switch is suitable for use as an access layer switch in a network that also requires core switches; its features and capabilities make it a good choice for connecting end-user devices to the network while allowing you to use a separate, more powerful switch for core routing functions. 
+> 
+> **Key points about the Cisco Business 350 Series for access layer usage:**
+> **Designed for small businesses:**
+> Primarily marketed as a solution for smaller businesses, it provides essential features for managing network access at the edge. 
+> 
+> **Layer 2 and 3 functionality:**
+> Supports basic Layer 2 switching and some Layer 3 routing capabilities, making it capable of managing network traffic at the access layer. 
+> 
+> **Security features:**
+> Includes features like VLANs, port security, and access control to segment network traffic and enhance security at the access layer. 
+> 
+> **Easy management:**
+> Simple configuration interface suitable for smaller network administrators. 
+> 
+> **Why you might need a separate core switch:**
+> When a network grows beyond a small scale, a dedicated core switch is needed to handle high volumes of traffic between different access layer switches, requiring more robust features and higher bandwidth capacity. 
+> 
+> **High bandwidth needs:**
+> If your network requires high-speed data transfer between different network segments, a dedicated core switch with greater processing power and uplink capacity is necessary. 
+> 
+> **Advanced routing features:**
+> For complex routing policies and traffic management, a core switch with more advanced Layer 3 features might be needed. 
+> 
+> ==**Recommended Core Switches:**==
+> **Cisco Catalyst 9000 Series:**
+> A high-performance, modular series suitable for large enterprise networks with advanced features like automation and security.
+> 
+> **Cisco Nexus 5000 Series:**
+> Designed for data center environments with high scalability and advanced routing capabilities.
+> 
+> **Cisco Catalyst 9300 Series:**
+> A good option for smaller to mid-sized enterprise networks, offering a balance between performance and cost. 
+> The Cisco 9300 switch is beneficial as a core switch due to its high-performance capabilities, scalability, advanced security features, flexible management options, and robust stacking capabilities, allowing it to handle large volumes of data traffic efficiently while providing robust network security and seamless management in a large network environment.
+> 
+> **Key points to consider when choosing core switches:**
+> **Network size and traffic volume:**
+> Select a switch with sufficient port density and bandwidth to handle your expected network traffic. 
+> 
+> **Scalability:**
+> Consider future network growth and choose a switch that can be easily expanded. 
+> 
+> **Advanced features:**
+> Depending on your needs, you might require features like load balancing, security policies, and quality of service (QoS).
 
 
