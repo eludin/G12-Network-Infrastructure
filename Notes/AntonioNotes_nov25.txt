@@ -1,0 +1,26 @@
+Responding to Galton's Feedback (Antonio)
+- Clarifying our planned switches:
+	- access level switches are currently planned to be some 350 series switch
+		- (ie. 350-24P-4G)
+		- specific model/size depends on the department
+	- distribution switches are currently planned to be the 9300 series
+		- specific model/size will depend on final decision for access level
+	- core switch is currently planned to be a 9300X
+		- subject to change if it is determined we need more uplink
+
+- On cabling:
+	- very useful to know we need to specify cable rating as well (thanks for that feedback)
+
+- On ER location:
+	- In our meetings we decided on locating our data centre on the 5th floor
+	- we may have had a miscommunication somewhere regarding second floor
+	- either way, our infrastructure can't and wont displace several employees
+
+- Cost table:
+	- the costs we came up with were very "quick and dirty":
+	- the $8100 "Misc Hardware" included:
+		- 20 x 48 port patch panels (two per tr)
+		- 10 x racks or cabinets (one per tr)
+		- 24 x 25 pack of keystone jacks (600 total - covers all employees with lots of spares)
+		- 1 x 42u rack cabinet for the core/distribution switches (more substantial/secure)
+

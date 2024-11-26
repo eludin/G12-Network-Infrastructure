@@ -1,0 +1,26 @@
+Report:
+-logical diagram
+	-reorder depts based on order of access switches (lower level depts have A1,A2,etc)
+-physical diagram
+	-Add the horizontal/vertical distances on outside of document
+	-Add the square footage of rooms
+	-Specify which access switch is located in which wiring closet
+	-Specify where the LAPs would be located
+	-specify riser locations
+	-add backbone cabling lines which show what connects where
+-Cabling
+	-how much backbone cabling (plenum,riser,etc) will be used
+	-how much horizontal cabling will be used
+	-how much work space cabling will be used
+
+-costing analysis
+	-the exact cost of:
+		-The switches
+		-the wiring
+		-the WLC and LAP
+
+-Research what other things a IT dept would need and their costs (racks, SFP+ ports, etc)
+
+-specific hardware
+	-exact model number, exact cost
+	-(In technical writing), explain why this is reasonable choice, ie what actual numbers support that choice
