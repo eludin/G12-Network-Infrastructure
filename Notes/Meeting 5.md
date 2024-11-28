@@ -10,6 +10,12 @@
 - Go over Galton's response to our video
 - Go over Adam's meeting with Galton
 	- and any other subsequent conversations/feedback
+- ER placement / Datacenter
+	- go over 31pg doc (pg20-25)
+	- 2nd vs 5th floor
+- Talk about bandwidth balancing tool
+	- finalize which department switches go to which tr
+	- based on this, decide which trunk can handle the AP switches
 - Plan final document / presentation?
 	- go over requirements and delegate
 
@@ -67,3 +73,18 @@
 			- 10 x racks or cabinets (one per tr)
 			- 24 x 25 pack of keystone jacks (600 total - covers all employees with lots of spares)
 			- 1 x 42u rack cabinet for the core/distribution switches (more substantial/secure)
+
+###### Adam's Meeting
+- notes
+
+###### ER placement / Datacenter
+- see 31pg doc (pg 20-25)
+	- see pg 28 for explicit mention of data centre
+
+###### Bandwidth Balancing
+- slight imbalance is acceptable
+- use the tool in resources
+
+###### Final Proposal
+- misc plans
+- delegate

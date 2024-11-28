@@ -56,3 +56,10 @@
 	- Access:
 		- (x1) 24 Port - Cisco CBS350-24P-4X
 		- (x2) 48 Port - Cisco CBS350-48FP-4X
+
+###### Other
+- need to finalize details
+- WLC
+- APs
+- AP Switches (4 port poe+)
+- additional SFPs
