@@ -46,6 +46,11 @@
 - major cable runs
 - locations of key IT infrastructure
 
+###### Optional: Wireless Configuration
+- Would need to perform a Wireless Site Survey to determine the most efficient location for our APs.
+- This section provides a general overview of how we would implement an array of APs to provide an ESS to the building.
+- Reference Wireless Site Survey lecture (wireless class) heavily
+
 ###### Cost Estimates
 - provide thorough cost analysis
 - include table 

@@ -1,0 +1,95 @@
+Network IP (without subnetting): 172.20.0.0
+
+12 subnets required, so 4 subnet bits needed
+
+Each dept will have ~2^12 Nodes available
+
+Class B address used as Class C would give too few host adresses per Dept
+
+172.20.			[0000]		0000.0000000
+[Default Network)	(subnets)	(host nodes)
+
+Default Subnet Mask: 255.255.0.0
+Actual Subnet MAsk: 255.255.240.0
+
+Network Will use NAT to translate private IP addresses into a single public Address
+
+CSLM is used to ensure that each Dept can expand without running out of host nodes
+
+Subnets ranges based on floor number, starting at 1, 
+so that if for example (172.20.165.x) has an issue, 
+they're probably on the top floor
+
+Multi-Floor depts will need to have their subnet ranges divided more, 
+based on which access switch they'll use
+
+All servers will be given Static IP addresses
+
+1 - HR:
+Network ID: 172.20.0.0
+First Host: 172.20.0.1
+Last Host: 172.20.15.255
+
+2 - Finance:
+Network ID: 172.20.16.0
+First Host: 172.20.16.1
+Last Host: 172.20.31.255
+
+3 - Sales&Marketing:
+Network ID: 172.20.32.0
+First Host: 172.20.32.1
+Last Host: 172.20.47.255
+
+4 - Legal:
+Network ID: 172.20.48.0
+First Host: 172.20.48.1
+Last Host: 172.20.63.255
+
+5 - IT:
+Network ID: 172.20.64.0
+First Host: 172.20.64.1
+Last Host: 172.20.79.255
+
+6 - Security:
+Network ID: 172.20.80.0
+First Host: 172.20.80.1
+Last Host: 172.20.95.255
+
+
+7 - Communications:
+Network ID: 172.20.96.0
+First Host: 172.20.96.1
+Last Host: 172.20.111.255
+
+8 - Business Consultants:
+Network ID: 172.20.112.0
+First Host: 172.20.112.1
+Last Host: 172.20.127.255
+
+
+9 - Client Management:
+Network ID: 172.20.128.0
+First Host: 172.20.128.1
+Last Host: 172.20.143.255
+
+10 - Research&Analysis:
+Network ID: 172.20.144.0
+First Host: 172.20.144.1
+Last Host: 172.20.159.255
+
+
+11 - Project Managment:
+Network ID: 172.20.160.0
+First Host: 172.20.160.1
+Last Host: 172.20.175.255
+
+12 - Executive:
+Network ID: 172.20.176.0
+First Host: 172.20.176.1
+Last Host: 172.20.191.255
+
+
+
+
+
+

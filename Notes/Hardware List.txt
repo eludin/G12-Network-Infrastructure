@@ -1,8 +1,8 @@
 ###### Note: 
-- We are assuming a 5th floor demarc OR a demarc extension that will run from floor 1 up to floor 5
-- Primary ER location on the 5th floor will contain:
-	- Core switch, firewall
-- Distribution switches will be in the respective TR on the top floor
+- We are assuming a 1st or 5th floor demarc and a demarc extension that will allow us to place an EF and an ER on the second floor
+- Primary ER will contain:
+	- Core switch, firewall, wlc, company servers
+- Distribution switches will be located either TR A or B on floor 2
 	- redundant connection between distribution switches
 
 ###### CORE Switch
@@ -59,7 +59,7 @@
 
 ###### Other
 - need to finalize details
-- WLC
-- APs
-- AP Switches (4 port poe+)
-- additional SFPs
+	- WLC
+	- APs
+	- AP Switches (4 port poe+)
+	- additional SFPs
