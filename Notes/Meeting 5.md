@@ -1,6 +1,6 @@
 ## Network Infrastructure
 ### Group Meeting 5
-#### November 22nd, 2024
+#### November 29th, 2024
 ###### Github: [Repo](https://github.com/eludin/G12-Network-Infrastructure), [Org](https://github.com/G12-Network-Infrastructure-2024)
 
 ###### Video Call:
