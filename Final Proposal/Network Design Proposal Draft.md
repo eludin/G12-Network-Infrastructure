@@ -13,7 +13,12 @@
 
 ###### Introduction
 - Intro will thank the business for the opportunity and acknowledge several key points that influenced design decisions.
-- Brief summary of topology, keywords, wide overview'
+- Brief summary of topology, keywords, wide overview
+
+The purpose of this document is to provide a thorough overview of SHANA Networks' proposed 3-tier network design for Apollo Business Consulting's new 5 floor campus. At every stage of our  process, we have made design decisions with your future in mind. In the dialogue we've had with your representatives, and the supplementary research we've done into your enterprise, it has been made abundantly clear that our design needs to support the growth your company expects to see over the coming years. We at SHANA believe our design will provide you with a fast, robust, and scalable network that can act as a sturdy foundation the folks at Apollo Business Consulting can rely on for years to come.
+
+We look forward to bringing this project to life and on behalf of the SHANA team: 
+Thank you for the opportunity to provide this proposal.
 
 ###### Executive Summary
 - Breakdown what is being offered and for how much
