@@ -67,3 +67,29 @@ Thank you for the opportunity to provide this proposal.
 ###### Appendix A - Current Office Layout
 - "The unoccupied offices are currently configured as follows:"
 	- any other documentation, imagery, diagrams or supporting material can go here.
+
+---
+###### Report Rubric
+- All required elements present and in a logical sequence; spelling, grammar, and professionalism
+	- 5 to >3.75 pts: Excellent
+	- Proposal contains all the elements from the template in a sensible order; document looks professional (consistent layout, fonts, etc.) No more than two spelling/grammar errors noted
+- Network design meets the needs of the case study company and is reasonable, thoughtful, and logical
+	- 10 to >7.5 pts: Excellent
+	- The network design submitted will address the needs of the company. All of the structured cabling rules are consistently followed. Good hardware and cabling decisions are made.
+- Drawings clear, informative, and accurate.
+	- 10 to >7.5 pts: Excellent
+	- All drawings are easily readable. All drawings reflect the final proposed design. All drawings follow the rules outlined in the assignment.
+- Costing accurate, reflects design.
+	- 10 to >7.5 pts: Excellent
+	- Equipment and cabling costs reflect all of the hardware and cabling choices in the proposal. All costs are sensible. All the costs are cited. No extraneous cost items.
+
+###### Presentation Rubric
+- All required elements present and in a logical sequence; presented with professionalism
+	- 6 to >4.5 pts: Excellent
+	- All the elements specified in the assignment are presented The presentation flow is logical. The format is appropriate to the topic and the audience. Presentation length requirements are met.
+- Proposal is clearly explained
+	- 6 to >4.5 pts: Excellent
+	- The details of the proposal are presented well, Information presented in a clear and unambiguous way by all of the participants.
+- Shows creativity
+	- 3 to >1.5 pts: Excellent
+	- Presentation shows enthusiasm of team. A consistent effort is made to make the presentation interesting to watch.
