@@ -12,7 +12,7 @@
 - 2x Cisco Catalyst 9300X - 24 ports (managed)
 	- https://www.cdw.ca/product/cisco-catalyst-9300x-network-advantage-switch-24-ports-managed-ra/6550809?pfm=srh
 ###### ACCESS Switches
-- 8x Cisco Business 350 Series CBS350-24P-4X - 24 Port Access (managed)
+- 8x Cisco Business 350 Series CBS350-24FP-4X - 24 Port Access (managed)
 	- https://www.cdw.ca/product/cisco-business-350-series-cbs350-24fp-4x-switch-24-ports-managed-ra/6309673?pfm=srh
 - 8x Cisco Business 350 Series CBS350-48FP-4X - 48 Port Access (managed)
 	- https://www.cdw.ca/product/cisco-business-350-series-cbs350-48fp-4x-switch-48-ports-managed-ra/6309668?pfm=srh
