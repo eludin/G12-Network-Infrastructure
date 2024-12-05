@@ -1,0 +1,146 @@
+Private Class B Ip Address: 172.20.0.0
+Default Subnet Mask: 255.255.0.0
+
+Need 21 Subnets, Need 5 Subnet Bits
+
+Subnet Mask: 255.255.248.0 /21
+
+Subnets assigned in physical ascending order
+(Wireless subnets are option so they're all last)
+
+172.20.[00000]000.00000000
+
+Each subnet has 2046 Hosts Available 
+
+A1 - HR
+Subnet ID: 172.20.0.0
+First Host: 172.20.0.1
+Last Host: 172.20.7.254
+Broadcast: 172.20.7.255
+
+
+A2 - Finance
+Subnet ID: 172.20.8.0
+First Host: 172.20.8.1
+Last Host: 172.20.15.254
+Broadcast: 172.20.15.255
+
+A3 - Sales&Marketing, Floor 1
+Subnet ID: 172.20.16.0
+First Host: 172.20.16.1
+Last Host: 172.20.23.254
+Broadcast: 172.20.23.255
+
+A4 - Sales&Marketing, Floor 2
+Subnet ID: 172.20.24.0
+First Host: 172.20.24.1
+Last Host: 172.20.31.254
+Broadcast: 172.20.31.255
+
+A5 - Legal
+Subnet ID: 172.20.32.0
+First Host: 172.20.32.1
+Last Host: 172.20.39.254
+Broadcast: 172.20.39.255
+
+
+A6 - IT, Floor 2
+Subnet ID: 172.20.40.0
+First Host: 172.20.40.1
+Last Host: 172.20.47.254
+Broadcast: 172.20.47.255
+
+A7 - IT, Floor 3
+Subnet ID: 172.20.48.0
+First Host: 172.20.48.1
+Last Host: 172.20.55.254
+Broadcast: 172.20.55.255
+
+A8 - Security
+Subnet ID: 172.20.56.0
+First Host: 172.20.56.1
+Last Host: 172.20.63.254
+Broadcast: 172.20.63.255
+
+A9 - Communications
+Subnet ID: 172.20.64.0
+First Host: 172.20.64.1
+Last Host: 172.20.71.254
+Broadcast: 172.20.71.255
+
+A10 - Business Consultants, Floor 3
+Subnet ID: 172.20.72.0
+First Host: 172.20.72.1
+Last Host: 172.20.79.254
+Broadcast: 172.20.79.255
+
+
+A11 - Business Consultants, Floor 4
+Subnet ID: 172.20.80.0
+First Host: 172.20.80.1
+Last Host: 172.20.87.254
+Broadcast: 172.20.87.255
+
+
+A12 - Client Managment
+Subnet ID: 172.20.88.0
+First Host: 172.20.88.1
+Last Host: 172.20.95.254
+Broadcast: 172.20.95.255
+
+A13 - Research & Analysis, Floor 4
+Subnet ID: 172.20.96.0
+First Host: 172.20.96.1
+Last Host: 172.20.103.254
+Broadcast: 172.20.103.255
+
+A14 - Research & Analysis, Floor 5
+Subnet ID: 172.20.104.0
+First Host: 172.20.104.1
+Last Host: 172.20.111.254
+Broadcast: 172.20.111.255
+
+A15 - Project Management
+Subnet ID: 172.20.112.0
+First Host: 172.20.112.1
+Last Host: 172.20.119.254
+Broadcast: 172.20.119.255
+
+A16 - Executive
+Subnet ID: 172.20.120.0
+First Host: 172.20.120.1
+Last Host: 172.20.127.254
+Broadcast: 172.20.127.255
+
+
+\\\\\\\\\\\OPTIONAL//////////////
+
+W1
+Subnet ID: 172.20.128.0
+First Host: 172.20.128.1
+Last Host: 172.20.135.254
+Broadcast: 172.20.135.255
+
+W2
+Subnet ID: 172.20.136.0
+First Host: 172.20.136.1
+Last Host: 172.20.143.254
+Broadcast: 172.20.143.255
+
+W3
+Subnet ID: 172.20.144.0
+First Host: 172.20.144.1
+Last Host: 172.20.151.254
+Broadcast: 172.20.151.255
+
+W4
+Subnet ID: 172.20.152.0
+First Host: 172.20.152.1
+Last Host: 172.20.159.254
+Broadcast: 172.20.159.255
+
+W5
+Subnet ID: 172.20.160.0
+First Host: 172.20.160.1
+Last Host: 172.20.167.254
+Broadcast: 172.20.167.255
