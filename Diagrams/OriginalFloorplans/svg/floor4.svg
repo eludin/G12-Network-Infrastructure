@@ -1,0 +1,140 @@
+<svg width="1240" height="860" xmlns="http://www.w3.org/2000/svg">
+<style> text { font-family:Helvetica;font-weight:bold;font-size:12; } </style>	<polygon points="0,0 1240,0 1240,860 0,860 0,0" fill="transparent" stroke="black" stroke-width="3" />
+	<polygon points="160,0 490,0 490,150 430,150 430,190 160,190 160,0" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="280" y1="190" x2="300" y2="190" stroke="white" stroke-width="2" />
+	<text x="162" y="20" fill="black">BUSINESS</text>
+	<text x="162" y="35" fill="black">CONSULTANTS</text>
+	<text x="162" y="50" fill="black">(6)</text>
+	<polygon points="520,0 700,0 700,190 520,190 520,0" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="520" y1="80" x2="520" y2="100" stroke="white" stroke-width="2" />
+	<text x="522" y="20" fill="black">BUSINESS</text>
+	<text x="522" y="35" fill="black">CONSULTANTS</text>
+	<text x="522" y="50" fill="black">(3)</text>
+	<polygon points="700,0 940,0 940,190 700,190 700,0" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="940" y1="80" x2="940" y2="100" stroke="white" stroke-width="2" />
+	<line x1="810" y1="190" x2="830" y2="190" stroke="white" stroke-width="2" />
+	<line x1="940" y1="80" x2="940" y2="100" stroke="white" stroke-width="2" />
+	<text x="702" y="20" fill="black">MEETING</text>
+	<text x="702" y="35" fill="black">ROOM</text>
+	<polygon points="970,0 1240,0 1240,190 970,190 970,0" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="970" y1="80" x2="970" y2="100" stroke="white" stroke-width="2" />
+	<text x="972" y="20" fill="black">BUSINESS</text>
+	<text x="972" y="35" fill="black">CONSULTANTS</text>
+	<text x="972" y="50" fill="black">(4)</text>
+	<polygon points="0,220 130,220 130,360 0,360 0,220" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="50" y1="360" x2="70" y2="360" stroke="white" stroke-width="2" />
+	<line x1="50" y1="220" x2="70" y2="220" stroke="white" stroke-width="2" />
+	<line x1="50" y1="220" x2="70" y2="220" stroke="white" stroke-width="2" />
+	<text x="2" y="240" fill="black">BUSINESS</text>
+	<text x="2" y="255" fill="black">CONSULTANTS</text>
+	<text x="2" y="270" fill="black">(1)</text>
+	<polygon points="160,220 790,220 790,360 510,360 510,320 450,320 450,360 160,360 160,220" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="790" y1="280" x2="790" y2="300" stroke="white" stroke-width="2" />
+	<line x1="160" y1="280" x2="160" y2="300" stroke="white" stroke-width="2" />
+	<text x="162" y="240" fill="black">BUSINESS</text>
+	<text x="162" y="255" fill="black">CONSULTANTS</text>
+	<text x="162" y="270" fill="black">(7)</text>
+	<polygon points="820,220 1240,220 1240,360 820,360 820,220" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="820" y1="280" x2="820" y2="300" stroke="white" stroke-width="2" />
+	<line x1="1020" y1="360" x2="1040" y2="360" stroke="white" stroke-width="2" />
+	<text x="822" y="240" fill="black">BUSINESS</text>
+	<text x="822" y="255" fill="black">CONSULTANTS</text>
+	<text x="822" y="270" fill="black">(5)</text>
+	<polygon points="0,390 130,390 130,470 0,470 0,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="50" y1="390" x2="70" y2="390" stroke="white" stroke-width="2" />
+	<line x1="130" y1="420" x2="130" y2="440" stroke="white" stroke-width="2" />
+	<line x1="50" y1="390" x2="70" y2="390" stroke="white" stroke-width="2" />
+	<text x="2" y="410" fill="black">BUSINESS</text>
+	<text x="2" y="425" fill="black">CONSULTANTS</text>
+	<text x="2" y="440" fill="black">(1)</text>
+	<polygon points="160,390 460,390 460,470 340,470 340,490 260,490 260,470 160,470 160,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="460" y1="420" x2="460" y2="440" stroke="white" stroke-width="2" />
+	<line x1="300" y1="390" x2="320" y2="390" stroke="white" stroke-width="2" />
+	<text x="162" y="410" fill="black">BUSINESS</text>
+	<text x="162" y="425" fill="black">CONSULTANTS</text>
+	<text x="162" y="440" fill="black">(3)</text>
+	<polygon points="500,390 780,390 780,490 700,490 700,470 500,470 500,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="630" y1="390" x2="650" y2="390" stroke="white" stroke-width="2" />
+	<line x1="500" y1="420" x2="500" y2="440" stroke="white" stroke-width="2" />
+	<text x="502" y="410" fill="black">BUSINESS</text>
+	<text x="502" y="425" fill="black">CONSULTANTS</text>
+	<text x="502" y="440" fill="black">(3)</text>
+	<polygon points="920,390 1070,390 1070,510 920,510 920,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="980" y1="390" x2="1000" y2="390" stroke="white" stroke-width="2" />
+	<line x1="920" y1="440" x2="920" y2="460" stroke="white" stroke-width="2" />
+	<line x1="920" y1="440" x2="920" y2="460" stroke="white" stroke-width="2" />
+	<text x="922" y="410" fill="black">BUSINESS</text>
+	<text x="922" y="425" fill="black">CONSULTANTS</text>
+	<text x="922" y="440" fill="black">(1)</text>
+	<polygon points="780,390 890,390 890,710 500,710 500,470 700,470 700,490 780,490 780,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="890" y1="540" x2="890" y2="560" stroke="white" stroke-width="2" />
+	<line x1="820" y1="390" x2="840" y2="390" stroke="white" stroke-width="2" />
+	<text x="782" y="410" fill="black">CLIENT</text>
+	<text x="782" y="425" fill="black">MANAGEMENT</text>
+	<text x="782" y="440" fill="black">(9)</text>
+	<polygon points="1070,390 1240,390 1240,710 920,710 920,510 1070,510 1070,390" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="1140" y1="390" x2="1160" y2="390" stroke="white" stroke-width="2" />
+	<line x1="1140" y1="390" x2="1160" y2="390" stroke="white" stroke-width="2" />
+	<line x1="920" y1="600" x2="920" y2="620" stroke="white" stroke-width="2" />
+	<text x="1072" y="410" fill="black">CLIENT</text>
+	<text x="1072" y="425" fill="black">MANAGEMENT</text>
+	<text x="1072" y="440" fill="black">(8)</text>
+	<polygon points="0,470 130,470 130,710 0,710 0,470" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="50" y1="710" x2="70" y2="710" stroke="white" stroke-width="2" />
+	<line x1="50" y1="710" x2="70" y2="710" stroke="white" stroke-width="2" />
+	<line x1="130" y1="580" x2="130" y2="600" stroke="white" stroke-width="2" />
+	<text x="2" y="490" fill="black">CLIENT</text>
+	<text x="2" y="505" fill="black">MANAGEMENT</text>
+	<text x="2" y="520" fill="black">(2)</text>
+	<polygon points="160,470 260,470 260,490 340,490 340,470 460,470 460,710 160,710 160,470" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="300" y1="710" x2="320" y2="710" stroke="white" stroke-width="2" />
+	<line x1="460" y1="580" x2="460" y2="600" stroke="white" stroke-width="2" />
+	<line x1="300" y1="710" x2="320" y2="710" stroke="white" stroke-width="2" />
+	<text x="162" y="490" fill="black">CLIENT</text>
+	<text x="162" y="505" fill="black">MANAGEMENT</text>
+	<text x="162" y="520" fill="black">(6)</text>
+	<polygon points="0,740 130,740 130,860 0,860 0,740" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="50" y1="740" x2="70" y2="740" stroke="white" stroke-width="2" />
+	<line x1="50" y1="740" x2="70" y2="740" stroke="white" stroke-width="2" />
+	<text x="2" y="760" fill="black">CLIENT</text>
+	<text x="2" y="775" fill="black">MANAGEMENT</text>
+	<text x="2" y="790" fill="black">(1)</text>
+	<polygon points="160,740 440,740 440,790 500,790 500,740 730,740 730,860 160,860 160,740" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="600" y1="740" x2="620" y2="740" stroke="white" stroke-width="2" />
+	<line x1="600" y1="740" x2="620" y2="740" stroke="white" stroke-width="2" />
+	<line x1="160" y1="790" x2="160" y2="810" stroke="white" stroke-width="2" />
+	<text x="162" y="760" fill="black">CLIENT</text>
+	<text x="162" y="775" fill="black">MANAGEMENT</text>
+	<text x="162" y="790" fill="black">(5)</text>
+	<polygon points="730,740 1110,740 1110,860 730,860 730,740" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="910" y1="740" x2="930" y2="740" stroke="white" stroke-width="2" />
+	<line x1="910" y1="740" x2="930" y2="740" stroke="white" stroke-width="2" />
+	<text x="732" y="760" fill="black">RESEARCH</text>
+	<text x="732" y="775" fill="black">AND</text>
+	<text x="732" y="790" fill="black">ANALYSIS</text>
+	<text x="732" y="805" fill="black">(4)</text>
+	<polygon points="0,0 60,0 60,70 0,70 0,0" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="60" y1="20" x2="60" y2="40" stroke="white" stroke-width="2" />
+	<text x="2" y="20" fill="black">Stairs/</text>
+	<text x="2" y="35" fill="black">Elevators</text>
+	<polygon points="0,70 130,70 130,190 0,190 0,70" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="130" y1="120" x2="130" y2="140" stroke="white" stroke-width="2" />
+	<text x="2" y="90" fill="black">Rest</text>
+	<text x="2" y="105" fill="black">Room</text>
+	<polygon points="430,150 490,150 490,190 430,190 430,150" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="450" y1="190" x2="470" y2="190" stroke="white" stroke-width="2" />
+	<text x="432" y="170" fill="black">Closet</text>
+	<polygon points="440,740 500,740 500,790 440,790 440,740" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="460" y1="740" x2="480" y2="740" stroke="white" stroke-width="2" />
+	<text x="442" y="760" fill="black">Closet</text>
+	<polygon points="450,320 510,320 510,360 450,360 450,320" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="470" y1="360" x2="490" y2="360" stroke="white" stroke-width="2" />
+	<text x="452" y="340" fill="black">Closet</text>
+	<polygon points="1170,710 1240,710 1240,800 1170,800 1170,710" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="1170" y1="740" x2="1170" y2="760" stroke="white" stroke-width="2" />
+	<text x="1172" y="730" fill="black">Stairs/</text>
+	<text x="1172" y="745" fill="black">Elevators</text>
+	<polygon points="1170,800 1240,800 1240,860 1170,860 1170,800" fill="transparent" stroke="black" stroke-width="1" />
+	<line x1="1170" y1="820" x2="1170" y2="840" stroke="white" stroke-width="2" />
+	<text x="1172" y="820" fill="black">Closet</text>
+</svg>
