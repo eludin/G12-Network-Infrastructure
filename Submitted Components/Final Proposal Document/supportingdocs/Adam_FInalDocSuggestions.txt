@@ -1,0 +1,31 @@
+Page 8: mention that the department on multiple floors are given independent access switches in order to be TIA/EIA compliant (no horizontal cable travel vertically)
+
+In general, the more we can mention TIA/EIA complaince the better in my opinion
+
+-No mention of overall bandwidth estimates (in "LogicalLayoutDocument.docx")
+-Should mention that the WLC/LAPs are optional addition
+
+Page 11: -The TR stands for telecommunication rooms
+	-the firewall "f1" should be capitalized to "F1"
+	-Explain why we put D1/D2 in TR2A/TR2B (minimize fibre connections, cheaper, less likely to have damage)
+
+-Mention that all horizontal cabling is less than 90m (TIA/EIA compliant)
+
+-The pictures in "PhysicalLayoutDocument.docx" are a bit easier to read when you zoom in
+
+Page 27: Mention that the required max internet is ~277 Mb/s, so our firewall can more than handle it. 
+***Mention this would accomodate working from home using VPNs***
+We never really talked about it but mentioning Work from home would be a great thing to discuss more
+
+
+
+Page 28: Should mention which specific uplink we will use from D1/D2 to C1 (probably 24 Gb/s). Also mention that each "Trunk" would require ~12.6 Gb/s uplink
+
+
+Page 29: Mention that the max uplink required for access switches is ~3.3 Gb/s, so our Access switches can handle employee bandwidth
+
+
+For the physical layout, it should probably be mentioned which specific access switch each dept has (larger ones have 48 port, etc)
+
+
+

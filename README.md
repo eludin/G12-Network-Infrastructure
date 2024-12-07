@@ -11,3 +11,9 @@ Note: Supplementary resources were developed and published by members of the Moh
 - Henry Oyewole
 - Scott Richards
 - Neil Power
+
+###### Video Components
+- High-Level Design Presentation
+    - https://www.youtube.com/watch?v=U-O2a2vRtGI
+- Final Proposal Presentation
+    - https://www.youtube.com/watch?v=M93ffWrZRdY

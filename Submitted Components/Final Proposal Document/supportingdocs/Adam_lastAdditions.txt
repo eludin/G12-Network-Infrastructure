@@ -1,0 +1,35 @@
+PAGE 6: The bandwidth values are in the wrong order.
+Also It might make more sense to simply say: total Bandwidth: 25.2 Gb/s
+
+Also as I mentioned, under DEC_6_UPLOADS, I have updated physical diagram pics with F1 in the ER and office room numbers
+
+Floor 1:
+A1 - HR - 25 employees - CBS350-48FP-4X
+A2 - Finance - 28 Employees - CBS350-48FP-4X
+A3 - Sales, Floor 1 - 16 Employees - CBS350-24P-4X
+(optional) W1 - CBS350-8FP-E-2G
+
+Floor 2:
+A4 - Sales - CBS350-24P-4X
+A5 - Legal - CBS350-48FP-4X
+A6 - IT - CBS350-48FP-4X
+(optional) W2 - CBS350-8FP-E-2G
+
+Floor 3:
+A7 - IT - CBS350-24P-4X
+A8 - Security - IT - CBS350-24P-4X
+A9 - Communications - IT - CBS350-24P-4X
+A10 - Business Consultants, floor 3 - CBS350-48FP-4X
+(Optional) W3 - CBS350-8FP-E-2G
+
+Floor 4:
+A11 - Business Consultants, floor 4 - CBS350-48FP-4X
+A12 - Client Managment - CBS350-48FP-4X
+A13 - Research, Floor 4 - CBS350-24P-4X
+(Optional) W4 - CBS350-8FP-E-2G
+
+Floor 5:
+A14 - Research, Floor 5 - CBS350-24P-4X
+A15 - Project Managment -  CBS350-24P-4X
+A16 - Executive - CBS350-24P-4X
+(Optional) W5 - CBS350-8FP-E-2G

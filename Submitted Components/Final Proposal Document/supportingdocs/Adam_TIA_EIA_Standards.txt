@@ -1,0 +1,7 @@
+Our design follows all TIA/EIA network compliance, some examples include:
+-Twisted pair cabling will all use TIA/EIA T568B colour standards
+-Cable trays have been approved for backbone cabling
+-All MMF fibre wiring is less than 2 Km long
+-Horizontal cabling is terminated into a patch panel in the TR
+-All horizontal wiring is below the 90 m limit for TO to TR connectivity
+-Backbone cabling follows a hierarchal logical star topology, with TRs, EF and servers connecting to the ER
